@@ -5,6 +5,8 @@ class Program {
 
     String firstName = "Marence";
     String lastName = "Gamos";
-    Console.WriteLine ($"Hello world! My name is {firstName} {lastName}");
+    int age = 19;
+
+    Console.WriteLine ($"Hello world! My name is {firstName} {lastName} Age: {age} ");
   }
 }
